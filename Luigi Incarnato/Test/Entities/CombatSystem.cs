@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Test.Entity.CombatSystem
+namespace Test.Entities
 {
     class CombatSystem
     {
