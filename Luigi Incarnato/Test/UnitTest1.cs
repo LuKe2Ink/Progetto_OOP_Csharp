@@ -1,4 +1,5 @@
 using System;
+using Test.Entities;
 using Xunit;
 
 namespace Test
