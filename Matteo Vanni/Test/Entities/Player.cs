@@ -1,6 +1,7 @@
 ﻿using System;
+using Entity;
 
-namespace Test.Player
+namespace Test.Entities
 {
     class Player : Entity
     {
@@ -9,7 +10,7 @@ namespace Test.Player
         private long timer { get; set; };
         private long lastime { get; set; };
         private int column { get; set; };
-        //private Inventory inventory;
+        private Inventory inventory { get; set; };
         private int experience { get; set; };
         private int maxExperience { get; set; };
         private int maxSpell { get; set; };
@@ -17,7 +18,7 @@ namespace Test.Player
         private bool magicAttacking { get; set; };
 
 
-        public Player(int x, int y, Id id, CombatSystem combat, int level, int hp, int attack, int magicAttack, int defence, AbsFloor floor)
+        public Player(int x, int y, , int level, int hp, int attack, int magicAttack, int defence)/*, AbsFloor floor, Id id, CombatSystem combat//*/)
         {
             /*super(x, y, id, combat, level, floor);
             this.setHp(hp);

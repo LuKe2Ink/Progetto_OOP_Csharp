@@ -5,10 +5,10 @@ namespace Test.Entities
 {
     class AaBb
     {
-        private Point pos;
-        private readonly int width;
-        private readonly int height;
-        private readonly int size;
+        private Point pos { get; set; };
+        private readonly int width { get; set; };
+        private readonly int height { get; set; };
+        private readonly int size { get; set; };
 
         /**
          * Constructor.
@@ -23,46 +23,6 @@ namespace Test.Entities
             this.width = w;
             this.height = h;
             this.size = Math.Max(w, h);
-        }
-
-        /**
-         * get the position of the box.
-         *
-         * @return position point
-         */
-        public Point Getpos()
-        {
-            return pos;
-        }
-
-        /**
-         * get the size of your box.
-         *
-         * @return box size
-         */
-        public int Getsize()
-        {
-            return size;
-        }
-
-        /**
-         * get the coordinate x.
-         *
-         * @return horizontal position
-         */
-        public int GetX()
-        {
-            return pos.X;
-        }
-
-        /**
-         * get the coordinate y.
-         *
-         * @return vertical position
-         */
-        public int GetY()
-        {
-            return pos.Y;
         }
 
         /**
@@ -83,16 +43,6 @@ namespace Test.Entities
         public void SumY(int sum)
         {
             this.pos.Y += sum;
-        }
-
-        /**
-         * Set box position.
-         *
-         * @param p position point
-         */
-        public void Setpos(Point p)
-        {
-            this.pos = p;
         }
 
         /**
