@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Francesco Padovani",
+    "\\Luigi Incarnato",
+    "\\Luigi Incarnato\\Test",
+    "\\Luigi Incarnato\\Test\\Entities",
+    "\\Matteo Vanni",
+    "\\Matteo Vanni\\Test",
+    "\\Matteo Vanni\\Test\\Entities"
+  ],
+  "SelectedNode": "\\Matteo Vanni\\Test\\Entities\\Enemy.cs",
+  "PreviewInSolutionExplorer": false
+}

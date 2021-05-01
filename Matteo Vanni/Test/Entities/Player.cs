@@ -3,26 +3,27 @@ using Entity;
 
 namespace Test.Entities
 {
+    
     class Player : Entity
     {
-        private int xyz;
-        private bool flag { get; set; };
-        private long timer { get; set; };
-        private long lastime { get; set; };
-        private int column { get; set; };
-        private Inventory inventory { get; set; };
-        private int experience { get; set; };
-        private int maxExperience { get; set; };
-        private int maxSpell { get; set; };
-        private int spellRemain { get; set; };
-        private bool magicAttacking { get; set; };
+        private bool Flag { get; set; };
+        private long Timer { get; set; };
+        private long Lastime { get; set; };
+        private int Column { get; set; };
+        //private Inventory inventory { get; set; };
+        private int Experience { get; set; };
+        private int MaxExperience { get; set; };
+        private int MaxSpell { get; set; };
+        private int SpellRemain { get; set; };
+        private bool MagicAttacking { get; set; };
 
 
-        public Player(int x, int y, , int level, int hp, int attack, int magicAttack, int defence)/*, AbsFloor floor, Id id, CombatSystem combat//*/)
+        public Player(int x, int y, CombatSystem combat, int level, int hp, int attack, int magicAttack, int defence)/*, AbsFloor floor, Id id, CombatSystem combat)//*/
         {
-            /*super(x, y, id, combat, level, floor);
-            this.setHp(hp);
-            this.setMaxHp(hp);
+            Eentity e=new Entity(x, y, combat, level);
+            e.Hp=hp;
+            e.MaxHp=hp;
+            
             this.setAttack(attack);
             this.setMagicAttack(magicAttack);
             this.setDefence(defence);
@@ -51,4 +52,5 @@ namespace Test.Entities
             xyz = 2;
         }
     }
+
 }

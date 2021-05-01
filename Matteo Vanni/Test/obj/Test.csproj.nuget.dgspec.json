@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git Esame OOP\\Progetto_OOP_Csharp\\Luigi Incarnato\\Test\\Test.csproj": {}
+    "C:\\Users\\vanni\\Desktop\\PROGETTO ESAME OOP\\Progetto_OOP_Csharp\\Matteo Vanni\\Test\\Test.csproj": {}
   },
   "projects": {
-    "D:\\Git Esame OOP\\Progetto_OOP_Csharp\\Luigi Incarnato\\Test\\Test.csproj": {
+    "C:\\Users\\vanni\\Desktop\\PROGETTO ESAME OOP\\Progetto_OOP_Csharp\\Matteo Vanni\\Test\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git Esame OOP\\Progetto_OOP_Csharp\\Luigi Incarnato\\Test\\Test.csproj",
+        "projectUniqueName": "C:\\Users\\vanni\\Desktop\\PROGETTO ESAME OOP\\Progetto_OOP_Csharp\\Matteo Vanni\\Test\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "D:\\Git Esame OOP\\Progetto_OOP_Csharp\\Luigi Incarnato\\Test\\Test.csproj",
-        "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
-        "outputPath": "D:\\Git Esame OOP\\Progetto_OOP_Csharp\\Luigi Incarnato\\Test\\obj\\",
+        "projectPath": "C:\\Users\\vanni\\Desktop\\PROGETTO ESAME OOP\\Progetto_OOP_Csharp\\Matteo Vanni\\Test\\Test.csproj",
+        "packagesPath": "C:\\Users\\vanni\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vanni\\Desktop\\PROGETTO ESAME OOP\\Progetto_OOP_Csharp\\Matteo Vanni\\Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vanni\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

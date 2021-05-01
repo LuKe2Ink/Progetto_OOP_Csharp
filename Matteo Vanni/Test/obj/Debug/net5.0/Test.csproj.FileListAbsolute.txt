@@ -1,0 +1,5 @@
+C:\Users\vanni\Desktop\PROGETTO ESAME OOP\Progetto_OOP_Csharp\Matteo Vanni\Test\obj\Debug\net5.0\Test.csprojAssemblyReference.cache
+C:\Users\vanni\Desktop\PROGETTO ESAME OOP\Progetto_OOP_Csharp\Matteo Vanni\Test\obj\Debug\net5.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanni\Desktop\PROGETTO ESAME OOP\Progetto_OOP_Csharp\Matteo Vanni\Test\obj\Debug\net5.0\Test.AssemblyInfoInputs.cache
+C:\Users\vanni\Desktop\PROGETTO ESAME OOP\Progetto_OOP_Csharp\Matteo Vanni\Test\obj\Debug\net5.0\Test.AssemblyInfo.cs
+C:\Users\vanni\Desktop\PROGETTO ESAME OOP\Progetto_OOP_Csharp\Matteo Vanni\Test\obj\Debug\net5.0\Test.csproj.CoreCompileInputs.cache
