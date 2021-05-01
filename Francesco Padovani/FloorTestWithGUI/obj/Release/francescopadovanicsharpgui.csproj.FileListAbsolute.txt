@@ -1,0 +1,9 @@
+C:\Users\padob\source\repos\francescopadovanicsharpgui\bin\Release\francescopadovanicsharpgui.exe.config
+C:\Users\padob\source\repos\francescopadovanicsharpgui\bin\Release\francescopadovanicsharpgui.exe
+C:\Users\padob\source\repos\francescopadovanicsharpgui\bin\Release\francescopadovanicsharpgui.pdb
+C:\Users\padob\source\repos\francescopadovanicsharpgui\obj\Release\francescopadovanicsharpgui.Properties.Resources.resources
+C:\Users\padob\source\repos\francescopadovanicsharpgui\obj\Release\francescopadovanicsharpgui.Form1.resources
+C:\Users\padob\source\repos\francescopadovanicsharpgui\obj\Release\francescopadovanicsharpgui.csproj.GenerateResource.cache
+C:\Users\padob\source\repos\francescopadovanicsharpgui\obj\Release\francescopadovanicsharpgui.csproj.CoreCompileInputs.cache
+C:\Users\padob\source\repos\francescopadovanicsharpgui\obj\Release\francescopadovanicsharpgui.exe
+C:\Users\padob\source\repos\francescopadovanicsharpgui\obj\Release\francescopadovanicsharpgui.pdb
