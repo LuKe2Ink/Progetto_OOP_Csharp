@@ -1,21 +1,10 @@
 ﻿using System;
 using System.Drawing;
-namespace Test1.Test
+namespace Test
 {
     abstract class Entity : GameObject
     {
-        /*protected SpriteSheet sprite="Resource/";
-        protected BufferedImage[][] imgMatrix;
-        private BufferedImage img;
-        protected BufferedImage hpBar;//*/
-
-        public Image img; //= Image.FromFile("");
-        public Image[,] imgMatrix;
-        public Image HpBar;
-
-        //public SpriteSheet sprite = "Resources/";
-
-
+        
         protected int X { get; set; }
         protected int Y { get; set; }
         protected AaBb Box { get; set; }

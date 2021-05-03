@@ -4,7 +4,7 @@ using System.Drawing;
 using System.Windows;
 using System.Windows.Forms;
 using System.Collections.Generic;
-namespace Test1.Test
+namespace Test
 {
     class Player : Entity
     {

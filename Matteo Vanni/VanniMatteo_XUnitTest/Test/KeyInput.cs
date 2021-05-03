@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Windows.Input;
 
-namespace Test1.Test
+namespace Test
 {
     public class KeyInput//extends KeyAdapter
     {

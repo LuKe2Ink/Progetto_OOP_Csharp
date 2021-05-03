@@ -1,0 +1,2 @@
+C:\Users\vanni\Desktop\PROGETTO ESAME OOP\Progetto_OOP_Csharp\Matteo Vanni\Test1\obj\Debug\Test1.csprojAssemblyReference.cache
+C:\Users\vanni\Desktop\PROGETTO ESAME OOP\Progetto_OOP_Csharp\Matteo Vanni\Test1\obj\Debug\Test1.csproj.CoreCompileInputs.cache

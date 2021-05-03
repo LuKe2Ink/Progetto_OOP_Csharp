@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Windows.Forms;
 
-namespace Test1.Test
+namespace Test
 {
     public abstract class GameObject
     {

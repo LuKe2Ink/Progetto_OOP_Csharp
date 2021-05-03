@@ -10,8 +10,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		VanniMatteo_XUnitTest.cs = VanniMatteo_XUnitTest.cs
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VanniMatteo_XUnitTest", "..\VanniMatteo_XUnitTest\VanniMatteo_XUnitTest.csproj", "{62F94E47-E775-4D4F-A0C0-04D5CD24A4C1}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -22,10 +20,6 @@ Global
 		{10EDA518-ED92-4061-A63B-7894DDC3C5A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10EDA518-ED92-4061-A63B-7894DDC3C5A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10EDA518-ED92-4061-A63B-7894DDC3C5A9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{62F94E47-E775-4D4F-A0C0-04D5CD24A4C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{62F94E47-E775-4D4F-A0C0-04D5CD24A4C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{62F94E47-E775-4D4F-A0C0-04D5CD24A4C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{62F94E47-E775-4D4F-A0C0-04D5CD24A4C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

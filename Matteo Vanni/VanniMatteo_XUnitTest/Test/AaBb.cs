@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Drawing;
 
-namespace Test1.Test
+namespace Test
 {
     public class AaBb
     {
