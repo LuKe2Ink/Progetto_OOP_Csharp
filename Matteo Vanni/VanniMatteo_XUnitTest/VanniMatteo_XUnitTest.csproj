@@ -19,8 +19,9 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
-    <Reference Include="System.Drawing" />
-    <Reference Include="System.Windows" />
-    <Reference Include="System.Windows.Forms" />
+    <PackageReference Include="System.Drawing" />
+    <PackageReference Include="System.Windows" />
+    <PackageReference Include="System.Windows.Forms" />
   </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

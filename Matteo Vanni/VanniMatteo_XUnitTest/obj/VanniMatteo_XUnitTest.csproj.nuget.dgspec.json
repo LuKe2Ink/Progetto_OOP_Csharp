@@ -18,14 +18,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net40"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
+          "net40": {
             "targetAlias": "net5.0",
             "projectReferences": {}
           }
@@ -37,12 +37,24 @@
         }
       },
       "frameworks": {
-        "net5.0": {
+        "net40": {
           "targetAlias": "net5.0",
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[16.7.1, )"
+            },
+            "System.Drawing": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "System.Windows": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "System.Windows.Forms": {
+              "target": "Package",
+              "version": "(, )"
             },
             "coverlet.collector": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -61,22 +73,12 @@
               "version": "[2.4.3, )"
             }
           },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
         }
       }
     }
