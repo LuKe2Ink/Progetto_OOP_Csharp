@@ -1,0 +1,17 @@
+C:\Users\vanni\Desktop\XUnit_Test_Vanni\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\vanni\Desktop\XUnit_Test_Vanni\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\vanni\Desktop\XUnit_Test_Vanni\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\vanni\Desktop\XUnit_Test_Vanni\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\vanni\Desktop\XUnit_Test_Vanni\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\vanni\Desktop\XUnit_Test_Vanni\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\vanni\Desktop\XUnit_Test_Vanni\bin\Debug\XUnit_Test_Vanni.dll
+C:\Users\vanni\Desktop\XUnit_Test_Vanni\bin\Debug\XUnit_Test_Vanni.pdb
+C:\Users\vanni\Desktop\XUnit_Test_Vanni\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\vanni\Desktop\XUnit_Test_Vanni\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\vanni\Desktop\XUnit_Test_Vanni\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\vanni\Desktop\XUnit_Test_Vanni\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\vanni\Desktop\XUnit_Test_Vanni\obj\Debug\XUnit_Test_Vanni.csprojAssemblyReference.cache
+C:\Users\vanni\Desktop\XUnit_Test_Vanni\obj\Debug\XUnit_Test_Vanni.csproj.CoreCompileInputs.cache
+C:\Users\vanni\Desktop\XUnit_Test_Vanni\obj\Debug\XUnit_Test_Vanni.csproj.CopyComplete
+C:\Users\vanni\Desktop\XUnit_Test_Vanni\obj\Debug\XUnit_Test_Vanni.dll
+C:\Users\vanni\Desktop\XUnit_Test_Vanni\obj\Debug\XUnit_Test_Vanni.pdb
