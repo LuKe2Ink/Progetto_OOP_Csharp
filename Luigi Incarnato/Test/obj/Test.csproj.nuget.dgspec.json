@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\padob\\OneDrive\\Desktop\\Progetto_OOP_Csharp\\Luigi Incarnato\\Test\\Test.csproj": {}
+    "D:\\Git Esame OOP\\Progetto_OOP_Csharp\\Luigi Incarnato\\Test\\Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\padob\\OneDrive\\Desktop\\Progetto_OOP_Csharp\\Luigi Incarnato\\Test\\Test.csproj": {
+    "D:\\Git Esame OOP\\Progetto_OOP_Csharp\\Luigi Incarnato\\Test\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\padob\\OneDrive\\Desktop\\Progetto_OOP_Csharp\\Luigi Incarnato\\Test\\Test.csproj",
+        "projectUniqueName": "D:\\Git Esame OOP\\Progetto_OOP_Csharp\\Luigi Incarnato\\Test\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "C:\\Users\\padob\\OneDrive\\Desktop\\Progetto_OOP_Csharp\\Luigi Incarnato\\Test\\Test.csproj",
-        "packagesPath": "C:\\Users\\padob\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\padob\\OneDrive\\Desktop\\Progetto_OOP_Csharp\\Luigi Incarnato\\Test\\obj\\",
+        "projectPath": "D:\\Git Esame OOP\\Progetto_OOP_Csharp\\Luigi Incarnato\\Test\\Test.csproj",
+        "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
+        "outputPath": "D:\\Git Esame OOP\\Progetto_OOP_Csharp\\Luigi Incarnato\\Test\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\padob\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,7 +25,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net50": {
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -39,7 +37,8 @@
         }
       },
       "frameworks": {
-        "net50": {
+        "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
@@ -62,7 +61,22 @@
               "version": "[2.4.3, )"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
