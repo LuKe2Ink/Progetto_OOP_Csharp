@@ -1,0 +1,20 @@
+C:\Users\leroy\Desktop\LeroyCSharp\LeroyCSharp\bin\Debug\LeroyCSharp.exe.config
+C:\Users\leroy\Desktop\LeroyCSharp\LeroyCSharp\bin\Debug\LeroyCSharp.exe
+C:\Users\leroy\Desktop\LeroyCSharp\LeroyCSharp\bin\Debug\LeroyCSharp.pdb
+C:\Users\leroy\Desktop\LeroyCSharp\LeroyCSharp\obj\Debug\LeroyCSharp.csprojAssemblyReference.cache
+C:\Users\leroy\Desktop\LeroyCSharp\LeroyCSharp\obj\Debug\LeroyCSharp.Form1.resources
+C:\Users\leroy\Desktop\LeroyCSharp\LeroyCSharp\obj\Debug\LeroyCSharp.Properties.Resources.resources
+C:\Users\leroy\Desktop\LeroyCSharp\LeroyCSharp\obj\Debug\LeroyCSharp.csproj.GenerateResource.cache
+C:\Users\leroy\Desktop\LeroyCSharp\LeroyCSharp\obj\Debug\LeroyCSharp.csproj.CoreCompileInputs.cache
+C:\Users\leroy\Desktop\LeroyCSharp\LeroyCSharp\obj\Debug\LeroyCSharp.exe
+C:\Users\leroy\Desktop\LeroyCSharp\LeroyCSharp\obj\Debug\LeroyCSharp.pdb
+C:\Users\leroy\Desktop\Progetto_OOP_Csharp\Leroy Fabbri\LeroyCSharp\bin\Debug\LeroyCSharp.exe.config
+C:\Users\leroy\Desktop\Progetto_OOP_Csharp\Leroy Fabbri\LeroyCSharp\bin\Debug\LeroyCSharp.exe
+C:\Users\leroy\Desktop\Progetto_OOP_Csharp\Leroy Fabbri\LeroyCSharp\bin\Debug\LeroyCSharp.pdb
+C:\Users\leroy\Desktop\Progetto_OOP_Csharp\Leroy Fabbri\LeroyCSharp\obj\Debug\LeroyCSharp.csprojAssemblyReference.cache
+C:\Users\leroy\Desktop\Progetto_OOP_Csharp\Leroy Fabbri\LeroyCSharp\obj\Debug\LeroyCSharp.Form1.resources
+C:\Users\leroy\Desktop\Progetto_OOP_Csharp\Leroy Fabbri\LeroyCSharp\obj\Debug\LeroyCSharp.Properties.Resources.resources
+C:\Users\leroy\Desktop\Progetto_OOP_Csharp\Leroy Fabbri\LeroyCSharp\obj\Debug\LeroyCSharp.csproj.GenerateResource.cache
+C:\Users\leroy\Desktop\Progetto_OOP_Csharp\Leroy Fabbri\LeroyCSharp\obj\Debug\LeroyCSharp.csproj.CoreCompileInputs.cache
+C:\Users\leroy\Desktop\Progetto_OOP_Csharp\Leroy Fabbri\LeroyCSharp\obj\Debug\LeroyCSharp.exe
+C:\Users\leroy\Desktop\Progetto_OOP_Csharp\Leroy Fabbri\LeroyCSharp\obj\Debug\LeroyCSharp.pdb
